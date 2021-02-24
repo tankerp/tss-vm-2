@@ -1,0 +1,21 @@
+.home_body {
+  margin: 0;
+  display: grid;
+  place-items: center;
+  z-index: -1;
+  height: 500px;
+}
+
+.home_container {
+  width: 1400px;
+  height: 100%;
+  display: flex;
+  z-index: 50;
+}
+
+.navbar_header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+}

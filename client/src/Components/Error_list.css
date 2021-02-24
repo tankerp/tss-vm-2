@@ -1,0 +1,6 @@
+.all_err {
+  width: 1400px;
+  height: 100%;
+  display: flex;
+  z-index: 50;
+}
